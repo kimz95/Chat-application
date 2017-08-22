@@ -1,0 +1,12 @@
+c:\users\sharshar\documents\visual studio 2012\Projects\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+c:\users\sharshar\documents\visual studio 2012\Projects\ChatServer\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+c:\users\sharshar\documents\visual studio 2012\Projects\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+c:\users\sharshar\documents\visual studio 2012\Projects\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+c:\users\sharshar\documents\visual studio 2012\Projects\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+c:\users\sharshar\documents\visual studio 2012\Projects\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+C:\Users\Kareem\Downloads\Projects\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+C:\Users\Kareem\Downloads\Projects\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\Kareem\Downloads\Projects\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+C:\Users\Kareem\Downloads\Projects\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\Kareem\Downloads\Projects\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\Kareem\Downloads\Projects\ChatServer\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
